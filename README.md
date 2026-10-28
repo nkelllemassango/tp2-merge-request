@@ -9,3 +9,4 @@ Projet pour apprendre les demandes de fusion et la collaboration GitHub.
 - Ajouter un README
 - Inviter un collaborateur
 - Faire un merge request
+- Inviter : [laureine3]
